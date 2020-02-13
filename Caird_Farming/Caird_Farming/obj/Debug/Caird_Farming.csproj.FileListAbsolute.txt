@@ -1,0 +1,14 @@
+C:\Users\Mason Caird\Desktop\Software\Caird_Farming\Caird_Farming\bin\Debug\Caird_Farming.exe.config
+C:\Users\Mason Caird\Desktop\Software\Caird_Farming\Caird_Farming\bin\Debug\Caird_Farming.exe
+C:\Users\Mason Caird\Desktop\Software\Caird_Farming\Caird_Farming\bin\Debug\Caird_Farming.pdb
+C:\Users\Mason Caird\Desktop\Software\Caird_Farming\Caird_Farming\obj\Debug\Caird_Farming.csprojAssemblyReference.cache
+C:\Users\Mason Caird\Desktop\Software\Caird_Farming\Caird_Farming\obj\Debug\MainWindow.g.cs
+C:\Users\Mason Caird\Desktop\Software\Caird_Farming\Caird_Farming\obj\Debug\App.g.cs
+C:\Users\Mason Caird\Desktop\Software\Caird_Farming\Caird_Farming\obj\Debug\Caird_Farming_MarkupCompile.cache
+C:\Users\Mason Caird\Desktop\Software\Caird_Farming\Caird_Farming\obj\Debug\Caird_Farming_MarkupCompile.lref
+C:\Users\Mason Caird\Desktop\Software\Caird_Farming\Caird_Farming\obj\Debug\MainWindow.baml
+C:\Users\Mason Caird\Desktop\Software\Caird_Farming\Caird_Farming\obj\Debug\Caird_Farming.g.resources
+C:\Users\Mason Caird\Desktop\Software\Caird_Farming\Caird_Farming\obj\Debug\Caird_Farming.Properties.Resources.resources
+C:\Users\Mason Caird\Desktop\Software\Caird_Farming\Caird_Farming\obj\Debug\Caird_Farming.csproj.GenerateResource.cache
+C:\Users\Mason Caird\Desktop\Software\Caird_Farming\Caird_Farming\obj\Debug\Caird_Farming.exe
+C:\Users\Mason Caird\Desktop\Software\Caird_Farming\Caird_Farming\obj\Debug\Caird_Farming.pdb
